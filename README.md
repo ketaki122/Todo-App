@@ -23,7 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Project Demo
   <p align = "center">
     <p>
-      <img src="./demo.mp4" width="250" height="550" alt="Demo" />
+      <img src="./vid.mp4" width="250" height="550" alt="Demo" />
   </p>
 
 
