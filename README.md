@@ -11,7 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     <li><a href="#license">License</a></li>
     </ol>
 </details>
+
 <!-- ABOUT THE PROJECT -->
+
 # About The Project
   <p align = "center">
     <p>
@@ -19,11 +21,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
      So here's an app, made by me, to manage your daily todos and make it easy for you to organise your tasks for the day. 
      This todo-app is user-friendly and attractive at the same time.
   </p>
+  
+  
  <!-- PROJECT DEMO -->
 # Project Demo
   <p align = "center">
     <p>
       <img src="./demo.gif" width="425" height="734" alt="Demo" />
+      <br/>
+      <a href="https://drive.google.com/file/d/1Qc5vIZLZT_UxByxJmcWVYetHJ7jcIRiO/view?usp=sharing">View Full Demo</a>
   </p>
 
 
