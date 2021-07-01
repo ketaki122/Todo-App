@@ -33,6 +33,30 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   </p>
 
 
+<!-- BUILT WITH -->
+
+# Built With
+
+<p align="centre">I have built this Todo App using the Javascript framework- REACT.JS<br/>
+  Styled it using HTML and CSS.
+</p>
+
+<!-- KEY FEATURES -->
+
+# Key Features
+
+<p align="centre">
+  <ul>
+    <li>Add Task</li>
+    <li>Delete Task</li>
+    <li>Check Completed Tasks</li>
+    <li>View Checked Tasks </li>
+    <li> Display of number of Checked Tasks</li>
+  </ul>
+</p>
+
+
+
 # Available Scripts
 
 <p> the project directory, you can run:<br/>
@@ -46,4 +70,9 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.<br />
 
 </p>
+
+<!-- LICENSE -->
+# License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
